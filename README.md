@@ -193,4 +193,5 @@ No license has been specified yet. Unless a license is added to the repository, 
 
 <p align="center">
   Made with Python 🐍 and curiosity.
+  made by Ali Farsi
 </p>
